@@ -1,4 +1,6 @@
-# Project 1
+# BlackRock Investments Presents:
+
+
 Phil Abraham
 
 Felipe Ayala
@@ -7,7 +9,7 @@ Eve Griggs
 
 Eren Turkmenonglu
 
-## BlackRock Investments Presents:
+
 # Beating the SP500, A Million Dollar Selection Process
 
 BlackRock Investments is comprised of learners and stock market enthusiasts. In this project we worked to create a simple yet sophisticated portfolio that could potentially beat the overall stock market.
